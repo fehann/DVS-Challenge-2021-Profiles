@@ -1,33 +1,13 @@
+# Shifting Roles - Data Visualization Profiles
+
 ![image1](Dataviz%20professionals%20v2.2.png)
 
-### Markdown
+## About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is an entry for the [State of the Data Visualization Industry 2021 Challenge](https://www.datavisualizationsociety.org/soti-challenge-2021) based on the annual survey results.  This is an explaratory data visualization to understand the shift in profiles of data visualization professionals, how they are changing roles and making the entire industry move.
 
-```markdown
-Syntax highlighted code block
+Most agregated data does not allow us to deep dive into the nuances of different profiles in the data visualization community.  With this in mind, the idea of using glyphs provides the combination of roles for the main profiles in the industry.  This type of representation can create caos at first but also provides the possibility to further explore the landscape.  While creating the visualization, by noticing that around half of the profiles were the same (the person had only the role of "Position in an organization with some data viz job responsibilities") it was possible to remove half of the caos out of the visual and focus on the more unknown profiles.
 
-# Header 1
-## Header 2
-### Header 3
+## The author
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fehann/DVSChallenge2021Profiles/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My name is Fernando Hannaka, a Systems and Information Engineer, bridging the gap between technical capacity and business objectives to enable a data driven culture.  Currently focusing on advancing the field of data visualization.  Feel free to reach me on [LinkedIn](linkedin.com/in/fernandohannaka).
