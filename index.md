@@ -10,4 +10,4 @@ Most agregated data does not allow us to deep dive into the nuances of different
 
 ## The author
 
-My name is Fernando Hannaka, a Systems and Information Engineer, bridging the gap between technical capacity and business objectives to enable a data driven culture.  Currently focusing on advancing the field of data visualization.  Feel free to reach me on [LinkedIn](linkedin.com/in/fernandohannaka).
+My name is Fernando Hannaka, a Systems and Information Engineer, bridging the gap between technical capacity and business objectives to enable a data driven culture.  Currently focusing on advancing the field of data visualization.  Feel free to reach me on [LinkedIn](https://linkedin.com/in/fernandohannaka).
