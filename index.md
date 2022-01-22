@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages test
 
-![image](Dataviz%20professionals%20v2.2.png)
+![image1](Dataviz%20professionals%20v2.2.png)
 
 You can use the [editor on GitHub](https://github.com/fehann/DVSChallenge2021Profiles/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
